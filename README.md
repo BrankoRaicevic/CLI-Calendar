@@ -5,7 +5,6 @@ The program compiles and works on both Windows(MSVS) and Linux.
 
 ### Further improvements that could be implemented
 
-* Rewise current user class into being a singleton class
 * Replace the current hashing algorithm, MurmurOAAT64, with a cryptographic hash function
 * Replace the current text encryption algorithm with a proper one
 * Add the ability to add, remove and view user events for dates with just input from the command line
